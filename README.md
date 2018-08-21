@@ -11,5 +11,8 @@
 * TESTE 2
 
 
+<<<<<<< HEAD
 Eduardo Henrique 
 
+=======
+>>>>>>> beaf703b23a7521fd91ab538121a99cfbf765ab8
